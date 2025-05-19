@@ -1,2 +1,3 @@
-# HubLimeira
-Marktplace da cidade de Limeira
+# LimeiraHUB
+
+Marketplace local da cidade de Limeira-SP.
